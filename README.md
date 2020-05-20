@@ -15,13 +15,15 @@ https://www.tutorialspoint.com/matplotlib/matplotlib_anaconda_distribution.htm.
 
 ### Some work samples
 
+We can change the country and the query month for which we want the visual.
 ![Screenshot (51)](https://user-images.githubusercontent.com/48849171/82418603-ce990f80-9a9a-11ea-94e1-703e08defda9.png)
-
-![Screenshot (45)](https://user-images.githubusercontent.com/48849171/82418065-22efbf80-9a9a-11ea-9231-e540b21b8099.png)
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/48849171/82418067-23885600-9a9a-11ea-91d4-f40a2ae91a49.png)
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/48849171/82418070-23885600-9a9a-11ea-9df9-8815e1a067ed.png)
+
+This data shows how much a country is contributing to the confirmed cases.
+This is the data of new confirmed cases b/w the two dates and the contribution of each country on the second date. World cases are taken as the reference on the second date.
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/48849171/82418071-24b98300-9a9a-11ea-89a1-5a5a8e4ac261.png)
 
