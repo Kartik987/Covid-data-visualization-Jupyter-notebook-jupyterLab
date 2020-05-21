@@ -16,6 +16,9 @@ https://www.tutorialspoint.com/matplotlib/matplotlib_anaconda_distribution.htm.
 ### Some work samples
 
 We can change the country and the query month for which we want the visual.
+
+![Screenshot (62)](https://user-images.githubusercontent.com/48849171/82520795-aa910900-9b42-11ea-8e64-da3b2c93a3a6.png)
+
 ![Screenshot (51)](https://user-images.githubusercontent.com/48849171/82418603-ce990f80-9a9a-11ea-94e1-703e08defda9.png)
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/48849171/82418067-23885600-9a9a-11ea-91d4-f40a2ae91a49.png)
