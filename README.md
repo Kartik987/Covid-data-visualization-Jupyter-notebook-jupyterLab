@@ -19,13 +19,14 @@ We can change the country and the query month for which we want the visual.
 
 ![Screenshot (62)](https://user-images.githubusercontent.com/48849171/82520795-aa910900-9b42-11ea-8e64-da3b2c93a3a6.png)
 
+![Screenshot (55)](https://user-images.githubusercontent.com/48849171/82421507-bcb96b80-9a9e-11ea-8bab-3db0bdebcf53.png)
+
 ![Screenshot (51)](https://user-images.githubusercontent.com/48849171/82418603-ce990f80-9a9a-11ea-94e1-703e08defda9.png)
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/48849171/82418067-23885600-9a9a-11ea-91d4-f40a2ae91a49.png)
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/48849171/82418070-23885600-9a9a-11ea-9df9-8815e1a067ed.png)
 
-![Screenshot (55)](https://user-images.githubusercontent.com/48849171/82421507-bcb96b80-9a9e-11ea-8bab-3db0bdebcf53.png)
 
 This data shows how much a country is contributing to the confirmed cases.
 This is the data of new confirmed cases b/w the two dates and the contribution of each country on the second date. World cases are taken as the reference on the second date.
