@@ -33,8 +33,6 @@ This is the data of new confirmed cases b/w the two dates and the contribution o
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/48849171/82418071-24b98300-9a9a-11ea-89a1-5a5a8e4ac261.png)
 
-![Screenshot (55)](https://user-images.githubusercontent.com/48849171/82421507-bcb96b80-9a9e-11ea-8bab-3db0bdebcf53.png)
-
 
 
 
