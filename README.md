@@ -9,7 +9,6 @@ Instructions:
    working directories with these new files.
 -  Make sure to have correct version of pip as according with your python version.
 
-
 Installations:
 Checkout this link if you want to install jupyter notebook to your machine.
 https://www.tutorialspoint.com/matplotlib/matplotlib_anaconda_distribution.htm.
